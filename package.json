@@ -1,0 +1,14 @@
+{
+  "name": "eslint-import-resolver-node-suffix",
+  "version": "0.0.3",
+  "description": "Node default behavior import resolution plugin for eslint-plugin-import with suffix support.",
+  "author": "Nikolay Frantsev <nikolay@frantsev.me>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NikolayFrantsev/eslint-import-resolver-node-suffix"
+  },
+  "dependencies": {
+    "eslint-import-resolver-node": "^0.3.7"
+  }
+}
